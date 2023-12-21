@@ -1,2 +1,1 @@
-# MinerGuide
-MinerGuide is a chatbot that responds to text queries pertaining to various Acts, Rules, and Regulations applicable to the Mining Industries.
+<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/>
